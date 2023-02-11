@@ -1,0 +1,3 @@
+C:/Users/afbsaopedro/Desktop/ctesp-tecnologias-programacao-sistemas-informacao/semester01/programming-class/project_game_of_life/cmake-build-debug/CMakeFiles/project_game_of_life.dir
+C:/Users/afbsaopedro/Desktop/ctesp-tecnologias-programacao-sistemas-informacao/semester01/programming-class/project_game_of_life/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/afbsaopedro/Desktop/ctesp-tecnologias-programacao-sistemas-informacao/semester01/programming-class/project_game_of_life/cmake-build-debug/CMakeFiles/rebuild_cache.dir

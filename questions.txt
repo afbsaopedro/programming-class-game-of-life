@@ -1,0 +1,3 @@
+Q: temos de ler todo a matriz e depois mudar ou assim que chega a uma celula preenchida muda logo?
+R: Muda logo
+-----------------------------------------------------------------------------------------------------------
